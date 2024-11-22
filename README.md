@@ -1,4 +1,5 @@
 🌟 Voter ID Hub
+
 📜 Overview
 
 The Voter ID Management System is a streamlined project using Java and Hibernate for efficiently managing voter data. The system includes entities like Person, VotingCard, and Address, enabling secure data storage and retrieval. Designed to enhance data integrity in voter identification, it leverages Hibernate's ORM capabilities for database operations.
